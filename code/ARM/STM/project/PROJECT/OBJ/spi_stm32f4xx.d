@@ -1,0 +1,9 @@
+.\obj\spi_stm32f4xx.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.9.0\CMSIS\Driver\SPI_STM32F4xx.c
+.\obj\spi_stm32f4xx.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.9.0\CMSIS\Driver\SPI_STM32F4xx.h
+.\obj\spi_stm32f4xx.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\spi_stm32f4xx.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\obj\spi_stm32f4xx.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\spi_stm32f4xx.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Driver\Include\Driver_SPI.h
+.\obj\spi_stm32f4xx.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Driver\Include\Driver_Common.h
+.\obj\spi_stm32f4xx.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\obj\spi_stm32f4xx.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.9.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal.h
